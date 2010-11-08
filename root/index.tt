@@ -1,0 +1,7 @@
+<p>
+[% IF username  %]
+[% username  %]
+[% END %]
+
+this is the index
+</p>
